@@ -1,0 +1,1 @@
+Some functions with unit tests implemented with Jest. Written on The Odin Project's JS course.
